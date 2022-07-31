@@ -3,7 +3,7 @@
 #### O Objetivo desse projeto foi consolidar os conceitos básicos de Programação Orientada a Objetos através da criação de um jogo simples de RPG.
 
 <h6 align='center'> Concluído</h6>
-<hr />
+<hr/>
 
 #### Conceitos que foram aplicados durante o projeto:
 - Pilares da POO:
